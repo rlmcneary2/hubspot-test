@@ -4,8 +4,8 @@ This is a monorepo that can include themes, etc.
 
 See each hubspot project's README:
 
-- [bitovi.com](./apps/bitovi.com/README.md)
+- [bitovi.com](./apps/bitovi.com/)
 
 ## Install
 
-run `npm i` to install the shared packages in "/node_modules".
+Run `npm i` to install the shared packages in "/node_modules".
