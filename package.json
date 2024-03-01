@@ -1,0 +1,25 @@
+{
+  "name": "hubspot-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "hs project upload project",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload:hubl": "hs upload hello-world-theme hello-world-theme"
+  },
+  "author": "",
+  "license": "ISC",
+  "eslintConfig": {
+    "root": true,
+    "extends": "@bitovi/eslint-config/react"
+  },
+  "prettier": {
+    "semi": false,
+    "trailingComma": "all"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5"
+  }
+}
