@@ -1,11 +1,4 @@
 {
-  /*  "extends": "../../tsconfig.json",
-  "compilerOptions": {
-    "noUnusedParameters": true,
-  },
-  "exclude": ["./node_modules"],
-  "include": ["."],
-  "references": [{ "path": "./tsconfig.node.json" }]*/
   "compilerOptions": {
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
