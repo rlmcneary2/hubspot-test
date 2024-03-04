@@ -15,4 +15,5 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  globals: { "ts-jest": { tsconfig: { jsx: "react-jsx" } } }
 }
